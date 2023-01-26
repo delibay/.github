@@ -1,5 +1,5 @@
 <div align="center">
-	<a href="https://delibay.org">
+	<a href="https://raw.githubusercontent.com/delibay/.github/main/profile/logo.svg">
 		<img src="logo.svg" alt="Delibay logo" height="128"/>
 	</a>
 </div>
