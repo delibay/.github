@@ -1,0 +1,11 @@
+<div align="center">
+	<a href="https://delibay.org">
+		<img src="logo.svg" alt="Delibay logo" height="128"/>
+	</a>
+</div>
+
+### An open source learning platform based on deliberate practice principles for IT students and their teachers, focused on practice and feedback.
+
+We are not hosting our code with Gitea for various reasons, but you can find the source code and contribute to the project on [Codeberg](https://codeberg.org/delibay/)!
+
+And can you learn more about the project on [delibay.org](https://delibay.org) !
