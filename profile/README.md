@@ -1,6 +1,6 @@
 <div align="center">
-	<a href="https://raw.githubusercontent.com/delibay/.github/main/profile/logo.svg">
-		<img src="logo.svg" alt="Delibay logo" height="128"/>
+	<a href="https://delibay.org">
+		<img src="https://raw.githubusercontent.com/delibay/.github/main/profile/logo.svg" alt="Delibay logo" height="128"/>
 	</a>
 </div>
 
