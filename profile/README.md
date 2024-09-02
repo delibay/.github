@@ -4,8 +4,10 @@
 	</a>
 </div>
 
-### An open source learning platform based on deliberate practice principles for IT students and their teachers, focused on practice and feedback.
+## Redefine the IT learning experience with deliberate practice
+> Empower IT students to train intensively on IT skills to develop efficient mental representations  
+> Help IT teachers to design practice-oriented courses and give feedback at scale
 
-We are not hosting our code with GitHub for various reasons (mostly because GitHub is proprietary), but we use Gitea instead. You can find the source code and contribute to the project on [Codeberg](https://codeberg.org/delibay/)!
+We are not hosting our code with GitHub because [GiveUpGitHub](https://giveupgithub.com/), but we use Forgejo instead. You can find the source code and contribute to the project on [Codeberg](https://codeberg.org/delibay/)!
 
 And can you learn more about the project on [delibay.org](https://delibay.org) !
